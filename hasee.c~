@@ -13,4 +13,4 @@ fprintf(filepointer,"/nThread id -------%ld",syscall(SYS_gettid));
 fclose(filepointer);
 return 0;
 }
-
+///chaned.
