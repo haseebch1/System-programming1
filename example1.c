@@ -6,5 +6,6 @@
 int main(int argc,char*argv[])
 {
      printf("thread id %ld]n",syscall(SYS_gettid));
+going to make changes 
 
 }
